@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2024-08-22T13:32:07Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "RoboWatch V1 Arduino"
+        },
+        "Owner": "Muhammad Asif Shaik Saffarudin <muhdasifss7706@gmail.com>",
+        "Size": {
+            "X": 71.1,
+            "Y": 61.9
+        }
+    }
+}
