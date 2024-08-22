@@ -30,7 +30,7 @@
 | M2 EN         | D4            | Motor 2 Enable Pin, Set as HIGH to enable driver               |
 
 ## Schematics:
-![image](https://github.com/user-attachments/assets/05c256b3-590f-4e4f-83a9-eaa7254789cf)
+![image](https://github.com/user-attachments/assets/7b17d9df-aa42-4c9c-878a-cd52d3b06b70)
 
 ## 3D Render
 ![image](https://github.com/user-attachments/assets/3f577449-bf16-4e3c-bfb9-1b3f2af666ba)
