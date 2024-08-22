@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/61728ebb-405e-453b-8f9a-76aef3118164)# RoboControl V1 - Arduino-based Robot Control Board
+# RoboControl V1 - Arduino-based Robot Control Board
 <p align="justify"> The RoboControl is a cheap and beginner-friendly all-in-one robot control board which is capable of dual motor control (6A/Channel), and includes dedicated pinouts for servos, sensors and external 12V systems which is controlled using a MOSFET. It also features a built in battery level sensing circuit which is made up of a simple voltage divider that translates the 0-12V range of the input battery to a analog value range between 0-1023. </p>
 
 ![image](https://github.com/user-attachments/assets/a4bbaf2c-ce27-4007-ae42-e8d151d868b4)
